@@ -1,0 +1,17 @@
+﻿  GraphicObject.cpp
+C:\Users\aleks\source\repos\GraphicObject\GraphicObject\GraphicObject.cpp(151,55): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\aleks\source\repos\GraphicObject\GraphicObject\GraphicObject.cpp(152,56): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\aleks\source\repos\GraphicObject\GraphicObject\GraphicObject.cpp(192,27): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\aleks\source\repos\GraphicObject\GraphicObject\GraphicObject.cpp(370,52): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\GraphicObject\GraphicObject\GraphicObject.cpp(374,52): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\GraphicObject\GraphicObject\GraphicObject.cpp(378,52): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\GraphicObject\GraphicObject\GraphicObject.cpp(382,52): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  GraphicObject.vcxproj -> C:\Users\aleks\source\repos\GraphicObject\x64\Debug\GraphicObject.exe
